@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+#cabeçalho{
+    min-height: 20vh;
+    background-color: #12B8DE;
+    
+}
+#conteudo{
+    min-height: 50vh;
+    background-color: #2E12DE;
+    color: black;
+}
+#conteudo2{
+    min-height: 50vh;
+    background-color: #2E12DE;
+    color: black;
+}
+#conteudo3{
+    min-height: 50vh;
+    background-color: #2E12DE;
+    color: black;
+}
+#rodapé{
+    background-color: #5C74DE;
+    min-height: 20vh;
+
+}
